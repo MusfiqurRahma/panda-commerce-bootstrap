@@ -1,14 +1,10 @@
-.panda-bg-info{
-    background-color: #fceae8;
+.navbar{
+    font-size: 20px;
+    font-family: serif;
 }
-.catagories img{
-    width: 120px;
-    margin-left: 100px;
+.bg-header{
+    background-color: #feeae9;
 }
-.btn-packpacks{
-    color: white;
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
-    border: none;
-    padding: 9px 25px;
-    border-radius: 8px;
+.btn-color{
+    background-color:#ff0466 ;
 }
